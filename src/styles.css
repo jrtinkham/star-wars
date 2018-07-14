@@ -1,0 +1,24 @@
+/* Application-wide Styles */
+body {
+    margin: 2em;
+    color: white;
+    background: #161616; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #161616, #232526)); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #161616, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+p, button, li, ul {
+    color: white;
+    font-family: 'Raleway', Helvetica, sans-serif;
+}
+
+h1 {
+    color: #FFD700;
+    font-family: 'Poller One', Helvetica, sans-serif;
+    font-size: 250%;
+    text-align: center;
+}
+h2, h3 {
+    color: #white;
+    font-family: 'Poller One', Helvetica, sans-serif;
+    font-weight: lighter;
+}

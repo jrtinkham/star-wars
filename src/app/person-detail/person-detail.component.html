@@ -1,0 +1,23 @@
+<div *ngIf="person">
+    <!--
+    <div class="person">
+
+        <ul>
+            <li *ngFor="let detail of person">
+                <p>{{ detail }}</p>
+          </li>
+        </ul>
+        <div>
+        <label>name:
+              <input [(ngModel)]="people.name" placeholder="people.name">
+            </label>
+        </div>
+
+    </div>
+    -->
+    <h2>{{ person.name | uppercase }}: Details</h2>
+    <div *ngFor="let k of objectKeys(person)">
+        {{k}}: {{person[k]}}
+    </div>
+    <button (click)="goBack()">go back</button>
+</div>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="336px" height="856px" viewBox="0 0 336 856" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>lightsaber-kylo-ren</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M0,0 L336,0 L336,856 L0,856"></path>
+        <path id="path-3" d="M0,0 L336,0 L336,856 L0,856"></path>
+        <path id="path-5" d="M0,0 L336,0 L336,856 L0,856 L0,0 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Minions" sketch:type="MSArtboardGroup" transform="translate(-1810.000000, -2727.000000)">
+            <g id="lightsaber-kylo-ren" sketch:type="MSLayerGroup" transform="translate(1810.000000, 2727.000000)">
+                <g id="Group-3">
+                    <mask id="mask-2" sketch:name="Clip 2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M104.0616,578.8328 L95.9976,576.0008 L39.6856,578.1208 C25.9176,578.6408 12.4056,582.0008 -0.0024,588.0008 L-0.0024,588.0008 L-0.0024,588.0008 C12.4056,593.9928 25.9176,597.3608 39.6856,597.8808 L95.9976,600.0008 L104.0616,597.1688" id="Fill-1" fill="#E74C3C" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Group-6">
+                    <mask id="mask-4" sketch:name="Clip 5" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-5"></g>
+                    <path d="M231.9384,597.1672 L240.0024,599.9992 L296.3144,597.8792 C310.0824,597.3592 323.5944,593.9992 336.0024,587.9992 L336.0024,587.9992 L336.0024,587.9992 C323.5944,582.0072 310.0824,578.6392 296.3144,578.1192 L240.0024,575.9992 L231.9384,578.8312" id="Fill-4" fill="#E74C3C" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+                </g>
+                <path d="M104,600 L104,576" id="Fill-7" fill="#E74C3C" sketch:type="MSShapeGroup"></path>
+                <mask id="mask-6" sketch:name="Clip 10" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <g id="Clip-10"></g>
+                <path d="M192,856 L144,856 L144,576 L192,576 L192,856 Z" id="Fill-9" fill="#464646" sketch:type="MSShapeGroup" mask="url(#mask-6)"></path>
+                <path d="M177.1376,10.08 C176.9856,4.64 173.1296,0.176 168.2816,0.008 C163.2336,-0.168 159.0176,4.336 158.8656,10.08 L152.0016,576 L184.0016,576 L177.1376,10.08 Z" id="Fill-11" fill="#E74C3C" sketch:type="MSShapeGroup" mask="url(#mask-6)"></path>
+                <path d="M192,576 L144,576 L144,552 L192,552 L192,576 Z" id="Fill-12" fill="#464646" sketch:type="MSShapeGroup" mask="url(#mask-6)"></path>
+                <path d="M136,568 L96,568 L96,598 L88,608 L136,608 L136,568 Z" id="Fill-13" fill="#3C3C3C" sketch:type="MSShapeGroup" mask="url(#mask-6)"></path>
+                <path d="M176,642 C174.896,642 174,641.104 174,640 L174,600 C174,598.896 174.896,598 176,598 C177.104,598 178,598.896 178,600 L178,640 C178,641.104 177.104,642 176,642" id="Fill-14" fill="#1D628F" sketch:type="MSShapeGroup" mask="url(#mask-6)"></path>
+                <path d="M168,642 C167.944,642 167.888,642 167.832,641.992 C166.736,641.904 165.912,640.936 166.008,639.832 L170.008,591.832 C170.104,590.736 171.072,589.96 172.168,590.008 C173.264,590.096 174.088,591.064 173.992,592.168 L169.992,640.168 C169.904,641.208 169.032,642 168,642" id="Fill-15" fill="#1D628F" sketch:type="MSShapeGroup" mask="url(#mask-6)"></path>
+                <path d="M152,848 L136,848 L136,832 L144,760 L152,760 L152,848 Z" id="Fill-16" fill="#323232" sketch:type="MSShapeGroup" mask="url(#mask-6)"></path>
+                <path d="M200,848 L184,848 L184,760 L192,760 L200,832 L200,848 Z" id="Fill-17" fill="#323232" sketch:type="MSShapeGroup" mask="url(#mask-6)"></path>
+                <path d="M176,848 L160,848 L160,760 L176,760 L176,848 Z" id="Fill-18" fill="#323232" sketch:type="MSShapeGroup" mask="url(#mask-6)"></path>
+                <path d="M144,600 L136,600 L136,568 L144,568 L144,600 Z" id="Fill-19" fill="#3C3C3C" sketch:type="MSShapeGroup" mask="url(#mask-6)"></path>
+                <path d="M200,568 L240,568 L240,598 L248,608 L200,608 L200,568 Z" id="Fill-20" fill="#3C3C3C" sketch:type="MSShapeGroup" mask="url(#mask-6)"></path>
+                <path d="M192,600 L200,600 L200,568 L192,568 L192,600 Z" id="Fill-21" fill="#3C3C3C" sketch:type="MSShapeGroup" mask="url(#mask-6)"></path>
+                <path d="M184.488,622.252 L163.984,634.732 C158.328,638.18 150.944,636.38 147.496,630.716 C144.056,625.06 145.848,617.676 151.512,614.228 L172.008,601.748 C177.672,598.308 185.056,600.1 188.496,605.764 C191.944,611.42 190.152,618.804 184.488,622.252 L184.488,622.252 Z M184,583.996 L184,575.996 L152,575.996 L152,583.996 L136,583.996 L136,655.996 L144,663.996 L192,663.996 L200,655.996 L200,583.996 L184,583.996 Z" id="Fill-22" fill="#323232" sketch:type="MSShapeGroup" mask="url(#mask-6)"></path>
+                <path d="M158,818 C156.896,818 156,817.104 156,816 L156,664.832 L148,656.832 L148,632 C148,630.896 148.896,630 150,630 C151.104,630 152,630.896 152,632 L152,655.168 L160,663.168 L160,816 C160,817.104 159.104,818 158,818" id="Fill-23" fill="#9D2F2D" sketch:type="MSShapeGroup" mask="url(#mask-6)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

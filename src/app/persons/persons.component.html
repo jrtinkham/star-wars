@@ -1,0 +1,11 @@
+<h2>Persons of Interest</h2>
+
+<ul class="persons">
+    <li *ngFor="let person of persons; let i = index" [attr.data-index]="i">
+        <a routerLink="/persons/:{{person.name}}">
+            <span class="badge">{{ i + 1 }}</span> <span class="person">{{person.name}}</span>
+        </a>
+  </li>
+</ul>
+
+<!--<app-person-detail [person]="selectedPerson"></app-person-detail>-->
